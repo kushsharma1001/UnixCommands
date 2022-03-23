@@ -1,5 +1,9 @@
 # UnixCommands
 
+Find all Java versions installed on Mac:
+cd /usr/libexec
+./java_home -V
+
 Kill a process: KILL LIVY: ps -ef | grep livy
                 kill -9 <id here>
 

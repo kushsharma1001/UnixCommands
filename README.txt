@@ -87,3 +87,5 @@ Translate uppercase to lowercase:
 Cat <file1> | tr A-Z a-z (translates the content of file from uppercase to lowercase)
 
 Cat file1 | tr A-Z a:z> newFile.txt
+
+Untar a tar.gz file using:  tar -xvf <filename>
